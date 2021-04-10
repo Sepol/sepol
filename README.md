@@ -1,12 +1,16 @@
-![Header](https://github.com/Sepol/sepol/blob/master/assets/git-preview.jpg)
+[![Header](https://github.com/Sepol/sepol/blob/master/assets/git-preview.jpg)](#)
 
-## I used to work with a backend in laravel. Now I decided to look for myself in the frontend on vue js.
+<div align="center">
+
+## I used to work with a backend in laravel. <br> Now I decided to look for myself in the frontend on vue js.
+
+</div>
 
 ***
 
 ### Languages and Tools
 
-<div style="text-align: center">
+<div align="center">
 
 ![html5](https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3)
@@ -26,7 +30,7 @@
 ***
 ### Follow Me
 
-<div style="text-align: center">
+<div align="center">
 
 [![vk](https://img.shields.io/badge/-vk-black?style=for-the-badge&logo=vk)](https://vk.com/sergey_polyansk)
 [![telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://t.me/sergey_sepol)
