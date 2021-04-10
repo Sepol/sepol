@@ -1,10 +1,10 @@
 ![Header](https://github.com/Sepol/sepol/blob/master/assets/git-preview.jpg)
 
-## Привет! Работаю около 3-х активных лет в разных отраслях программирования. Сейчас решил попробовать фронтенд на vueJS, так что буду рад любой работе.
-
-Latest Gifs of my Projects
+## I used to work with a backend in laravel. Now I decided to look for myself in the frontend on vue js.
 
 ### Languages and Tools
+
+&nbsp;<div style="text-align: center">
 ![html5](https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript)
@@ -17,10 +17,16 @@ Latest Gifs of my Projects
 ![mysql](https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql)
 ![postgresql](https://img.shields.io/badge/-postgresql-black?style=for-the-badge&logo=postgresql)
 ![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git)
+</div>
 
 ### Follow Me
 
+&nbsp;<div style="text-align: center">
 [![vk](https://img.shields.io/badge/-vk-black?style=for-the-badge&logo=vk)](https://vk.com/sergey_polyansk)
 [![telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://t.me/sergey_sepol)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-black?style=for-the-badge&logo=whatsapp)](https://wa.me/+79995602933/?text=)
 [![mail.ru](https://img.shields.io/badge/-mail.ru-black?style=for-the-badge&logo=mail.ru)](https://e.mail.ru/compose/?to=seregapol1998@mail.ru)
+</div>
+
+
+  
