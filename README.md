@@ -1,6 +1,6 @@
 [![Header](https://github.com/Sepol/sepol/blob/master/assets/git-preview.jpg)](#)
 
-<div align="center" margin-bottom="50px">
+<div align="center" bg="red">
 
 ## I used to work with a backend in laravel. <br> Now I decided to look for myself in the frontend on vue js.
 
