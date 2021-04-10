@@ -6,11 +6,9 @@
 
 </div>
 
-***
-
 ### Languages and Tools
 
-<div align="center" cursor="none">
+<div align="center">
 
 [![html5](https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5)](#)
 [![css3](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3)](#)
