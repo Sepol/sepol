@@ -1,13 +1,10 @@
 [![Header](https://github.com/Sepol/sepol/blob/master/assets/git-preview.jpg)](#)
 
-<div align="center">
+<div align="center" margin-bottom="50px">
 
 ## I used to work with a backend in laravel. <br> Now I decided to look for myself in the frontend on vue js.
 
 </div>
-
-<br>
-<p>&nbsp;</p>
 
 ### Languages and Tools
 
