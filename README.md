@@ -7,6 +7,7 @@
 </div>
 
 <br>
+<p>&nbsp;</p>
 
 ### Languages and Tools
 
