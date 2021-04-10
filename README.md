@@ -4,7 +4,7 @@
 
 ### Languages and Tools
 
-&nbsp;<div style="text-align: center">
+<div style="text-align: center">
 ![html5](https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript)
@@ -21,7 +21,7 @@
 
 ### Follow Me
 
-&nbsp;<div style="text-align: center">
+<div style="text-align: center">
 [![vk](https://img.shields.io/badge/-vk-black?style=for-the-badge&logo=vk)](https://vk.com/sergey_polyansk)
 [![telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://t.me/sergey_sepol)
 [![whatsapp](https://img.shields.io/badge/-whatsapp-black?style=for-the-badge&logo=whatsapp)](https://wa.me/+79995602933/?text=)
