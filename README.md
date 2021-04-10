@@ -3,7 +3,7 @@
 <div align="center">
 
 ## I used to work with a backend in laravel. <br> Now I decided to look for myself in the frontend on vue js.
-<br>
+<p>&nbsp;</p>
 
 </div>
 
