@@ -1,4 +1,4 @@
-[![Header](https://github.com/Sepol/sepol/blob/master/assets/git-preview.jpg)]
+![Header](https://github.com/Sepol/sepol/blob/master/assets/git-preview.jpg)
 
 ## Привет! Работаю около 3-х активных лет в разных отраслях программирования. Сейчас решил попробовать фронтенд на vueJS, так что буду рад любой работе.
 
@@ -18,4 +18,9 @@ Latest Gifs of my Projects
 ![postgresql](https://img.shields.io/badge/-postgresql-black?style=for-the-badge&logo=postgresql)
 ![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git)
 
-Follow Me
+### Follow Me
+
+[![vk](https://img.shields.io/badge/-vk-black?style=for-the-badge&logo=vk)](https://vk.com/sergey_polyansk)
+[![telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://t.me/sergey_sepol)
+[![whatsapp](https://img.shields.io/badge/-whatsapp-black?style=for-the-badge&logo=whatsapp)](https://wa.me/+79995602933/?text=)
+[![mail.ru](https://img.shields.io/badge/-mail.ru-black?style=for-the-badge&logo=mail.ru)](https://e.mail.ru/compose/?to=seregapol1998@mail.ru)
