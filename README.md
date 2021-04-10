@@ -17,12 +17,15 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript)
 ![VueJs](https://img.shields.io/badge/-Vue&nbsp;js-35495e?style=for-the-badge&logo=v&logoColor=41b883)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-black?style=for-the-badge&logo=bootstrap)
+![sass](https://img.shields.io/badge/-sass-black?style=for-the-badge&logo=sass)
 ![firebase](https://img.shields.io/badge/-firebase-black?style=for-the-badge&logo=firebase)
 ![laravel](https://img.shields.io/badge/-laravel-black?style=for-the-badge&logo=laravel)
 ![php](https://img.shields.io/badge/-php-black?style=for-the-badge&logo=php)
 ![wordpress](https://img.shields.io/badge/-wordpress-black?style=for-the-badge&logo=wordpress)
 ![mysql](https://img.shields.io/badge/-mysql-black?style=for-the-badge&logo=mysql)
 ![postgresql](https://img.shields.io/badge/-postgresql-black?style=for-the-badge&logo=postgresql)
+![gulp](https://img.shields.io/badge/-gulp-black?style=for-the-badge&logo=gulp)
+![webpack](https://img.shields.io/badge/-webpack-black?style=for-the-badge&logo=webpack)
 ![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git)
 
 </div>
